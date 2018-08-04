@@ -1,6 +1,6 @@
 {
   "name": "philemon",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shortens `npm` commands to mimic how `yarn` runs scripts.",
   "keywords": [
     "args",
