@@ -1,6 +1,6 @@
 {
   "name": "philemon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shortens `npm` commands to mimic how `yarn` runs scripts.",
   "keywords": [
     "args",
@@ -11,7 +11,7 @@
     "yarn"
   ],
   "bugs": "https://github.com/n4bb12/philemon/issues",
-  "repository": "git@github.com:n4bb12/philemon.git",
+  "repository": "github:n4bb12/philemon",
   "license": "MIT",
   "author": "Abraham Schilling",
   "files": [
