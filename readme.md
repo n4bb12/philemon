@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Demo" src="https://image.flaticon.com/icons/svg/826/826934.svg" height="48">
+  <img alt="Logo" src="https://image.flaticon.com/icons/svg/826/826934.svg" height="48">
   Philemon
 </h1>
 
@@ -84,4 +84,4 @@ npm -v
 
 ## Attribution
 
-<div>Icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/free-icon/pineapple_826934" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+<div>Logo made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/free-icon/pineapple_826934" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
