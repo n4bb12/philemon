@@ -1,10 +1,29 @@
-# philemon
+<h1 align="center">
+  <img alt="Demo" src="https://image.flaticon.com/icons/svg/826/826934.svg" height="48">
+  Philemon
+</h1>
 
-Shortens `npm` commands to mimic how `yarn` runs scripts.
+<p align="center">
+  Shortens <code>npm</code> commands to mimic how <code>yarn</code> runs scripts
+</p>
 
-| |
-|-|
-| *The module is named Philemon because it is the third shortest book of the bible. [Read the whole Story.](https://www.bibleserver.com/text/ESV/Philemon1)* |
+<center>
+  <table style="border: 2px solid red">
+    <tr>
+      <td border="0">
+        <i>
+          Philemon is the third shortest book in the Bible, but an all the more interesting story. My npm commands should be just as short. <a href="https://www.bibleserver.com/text/ESV/Philemon1">Philemon?</a>
+        </i>
+      </td>
+    </tr>
+  </table>
+</center>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/n4bb12/philemon/master/LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/License-ISC-lightgrey.svg?style=flat-square">
+  </a>
+</p>
 
 ## Why
 
@@ -63,6 +82,6 @@ npm bin
 npm -v
 ```
 
-## License
+## Attribution
 
-MIT © Abraham Schilling
+<div>Icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/free-icon/pineapple_826934" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
