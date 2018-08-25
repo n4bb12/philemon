@@ -82,7 +82,7 @@ npm bin
 npm -v
 ```
 
-<hr>
+#
 
 **Attribution**
 
