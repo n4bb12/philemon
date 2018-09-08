@@ -20,8 +20,17 @@
 </center>
 
 <p align="center">
+  <!-- <a href="https://circleci.com/gh/n4bb12/workflows/philemon">
+    <img alt="Build" src="https://flat.badgen.net/circleci/github/n4bb12/philemon?icon=circleci">
+  </a> -->
+  <a href="https://www.npmjs.com/package/philemon">
+    <img alt="Version" src="https://flat.badgen.net/npm/v/philemon?icon=npm">
+  </a>
   <a href="https://raw.githubusercontent.com/n4bb12/philemon/master/LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/License-ISC-lightgrey.svg?style=flat-square">
+    <img alt="License" src="https://flat.badgen.net/github/license/n4bb12/philemon">
+  </a>
+  <a href="https://github.com/n4bb12/philemon/issues/new?template=bug_report.md">
+    <img alt="Issues" src="https://flat.badgen.net/badge/github/create issue/blue?icon=github">
   </a>
 </p>
 
@@ -34,7 +43,7 @@ Scripts need to be prefixed with `run` (with few exceptions) and arguments need 
 npm run lint -- --help
 ```
 
-Unfortunately `npx` only runs bins but doesn't improve scripts.  
+Unfortunately `npx` only runs bins but doesn't improve scripts.
 
 Docs: https://docs.npmjs.com/cli/run-script
 
