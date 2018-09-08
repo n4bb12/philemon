@@ -12,7 +12,7 @@
     <tr>
       <td border="0">
         <i>
-          Philemon is the third shortest book in the Bible, but an all the more interesting story. My npm commands should be just as short. <a href="https://www.bibleserver.com/text/ESV/Philemon1">Philemon?</a>
+          Philemon is the third shortest book of the Bible, but an all the more interesting story. My npm commands should be just as short. <a href="https://www.bibleserver.com/text/ESV/Philemon1">Philemon?</a>
         </i>
       </td>
     </tr>
@@ -29,7 +29,7 @@
   <a href="https://raw.githubusercontent.com/n4bb12/philemon/master/LICENSE">
     <img alt="License" src="https://flat.badgen.net/github/license/n4bb12/philemon">
   </a>
-  <a href="https://github.com/n4bb12/philemon/issues/new?template=bug_report.md">
+  <a href="https://github.com/n4bb12/philemon/issues/new/choose">
     <img alt="Issues" src="https://flat.badgen.net/badge/github/create issue/blue?icon=github">
   </a>
 </p>
@@ -91,6 +91,6 @@ npm bin
 npm -v
 ```
 
-## Attribution
+#
 
 Logo made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/free-icon/pineapple_826934" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
