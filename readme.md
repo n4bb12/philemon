@@ -21,16 +21,16 @@
 
 <p align="center">
   <!-- <a href="https://circleci.com/gh/n4bb12/workflows/philemon">
-    <img alt="Build" src="https://flat.badgen.net/circleci/github/n4bb12/philemon?icon=circleci">
+    <img alt="CircleCI" src="https://flat.badgen.net/circleci/github/n4bb12/philemon?icon=circleci">
   </a> -->
   <a href="https://www.npmjs.com/package/philemon">
     <img alt="Version" src="https://flat.badgen.net/npm/v/philemon?icon=npm">
   </a>
   <a href="https://raw.githubusercontent.com/n4bb12/philemon/master/LICENSE">
-    <img alt="License" src="https://flat.badgen.net/github/license/n4bb12/philemon">
+    <img alt="License" src="https://flat.badgen.net/github/license/n4bb12/philemon?icon=github">
   </a>
   <a href="https://github.com/n4bb12/philemon/issues/new/choose">
-    <img alt="Issues" src="https://flat.badgen.net/badge/github/create issue/blue?icon=github">
+    <img alt="Issues" src="https://flat.badgen.net/badge/github/create issue/pink?icon=github">
   </a>
 </p>
 
