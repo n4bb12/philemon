@@ -62,16 +62,13 @@ To use npm with the same brevity as Yarn, use Philemon as a wrapper.
 
 ## Install
 
-Philemon assumes you have a [Bash](https://www.google.de/search?q=Install+Bash)  installed.
-
 ```
 npm i -g philemon
 ```
 
-Create an alias of your choice. Some examples:
+Alias npm/pnpm to run through Philemon:
 
 ```
-alias ph="philemon npm"
 alias npm="philemon npm"
 alias pnpm="philemon pnpm"
 ```

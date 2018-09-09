@@ -15,8 +15,8 @@
   "license": "ISC",
   "author": "Abraham Schilling",
   "files": [
-    "philemon.sh"
+    "philemon.js"
   ],
-  "bin": "philemon.sh",
+  "bin": "philemon.js",
   "$schema": "http://json.schemastore.org/package"
 }
