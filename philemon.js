@@ -3,11 +3,9 @@
 const args = process.argv.slice(2)
 
 if (args.length === 0) {
-  const red = "e[31m"
-  const reset = "e[39m"
-  console.log(
-    `${red}Invalid usage: Pass the binary to be wrapped as the first argument.${reset}`,
-  )
+  const red = "\x1b[31m"
+  const reset = "\x1b[0m"
+  console.log(`${red}Invalid usage: Pass npm/pnpm as the first argument.${reset}`)
   console.log(`${red}Example: alias npm=\"philemon npm\"${reset}`)
   process.exit(1)
 }
