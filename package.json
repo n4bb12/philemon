@@ -10,6 +10,7 @@
     "short",
     "yarn"
   ],
+  "homepage": "https://github.com/n4bb12/philemon/blob/master/README.md",
   "bugs": "https://github.com/n4bb12/philemon/issues",
   "repository": "github:n4bb12/philemon",
   "license": "ISC",
