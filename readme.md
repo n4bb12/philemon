@@ -12,7 +12,7 @@
     <tr>
       <td border="0">
         <i>
-          Philemon is the third shortest book of the Bible, but an all the more interesting story. My npm commands should be just as short. <a href="https://www.bibleserver.com/text/ESV/Philemon1">Philemon?</a>
+          Philemon is a short and very interesting story. I prefer my npm commands to be just as short. <a href="https://www.bibleserver.com/text/ESV/Philemon1">Who's Philemon?</a>
         </i>
       </td>
     </tr>

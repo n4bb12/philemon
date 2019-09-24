@@ -11,7 +11,17 @@ if (args.length === 0) {
 }
 
 const spawnSync = require("child_process").spawnSync
-const builtInCommands = /^(?:access|adduser|login|add-user|audit|bin|bugs|issues|build|bundle|cache|ci|completion|config|c|dedupe|find-dupes|ddp|deprecate|dist-tag|dist-tags|docs|doctor|edit|explore|help|help-search|hook|init|install|i|install-ci-test|cit|install-test|it|link|ln|logout|ls|list|la|ll|outdated|owner|author|pack|ping|prefix|profile|prune|publish|rebuild|rb|repo|restart|root|run-script|run|search|s|se|find|shrinkwrap|star|stars|start|stop|team|test|t|tst|token|uninstall|remove|rm|r|un|unlink|unpublish|update|up|upgrade|version|view|info|show|v|whoami)$/
+const builtInCommands = `access, adduser, audit, bin, bugs, c, cache, ci, cit,
+clean-install, clean-install-test, completion, config,
+create, ddp, dedupe, deprecate, dist-tag, docs, doctor,
+edit, explore, get, help, help-search, hook, i, init,
+install, install-ci-test, install-test, it, link, list, ln,
+login, logout, ls, org, outdated, owner, pack, ping, prefix,
+profile, prune, publish, rb, rebuild, repo, restart, root,
+run, run-script, s, se, search, set, shrinkwrap, star,
+stars, start, stop, t, team, test, token, tst, un,
+uninstall, unpublish, unstar, up, update, v, version, view,
+whoami`.split(",").map(String.prototype.trim)
 
 const pmBinary = args[0]
 const pmCommand = args[1] || ""
@@ -19,7 +29,7 @@ const pmArgs = args.slice(2)
 
 const spawnCommand = pmBinary
 const spawnArgs =
-  !pmCommand || pmCommand[0] === "-" || builtInCommands.test(pmCommand)
+  !pmCommand || pmCommand[0] === "-" || builtInCommands.includes(pmCommand)
     ? [pmCommand, ...pmArgs]
     : ["run", pmCommand, "--", ...pmArgs]
 const spawnOptions = {
